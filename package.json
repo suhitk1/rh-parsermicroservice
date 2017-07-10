@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suhitk1/rh-parsermicroservice.git"
+    "url": "https://github.com/suhitk1/rh-parsermicroservice.git"
   },
   "keywords": [
     "API",
