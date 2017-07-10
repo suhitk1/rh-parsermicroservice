@@ -1,5 +1,5 @@
 {
-  "name": "header-parser-sk1",
+  "name": "header-parser-r282",
   "version": "1.0.2",
   "description": "Lets you get the IP, language and OS for the browser making the request.",
   "main": "server.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suhitk1/rh-parsermicroservice.git"
+    "url": "git+https://github.com/Rafase282/header-parser.git"
   },
   "keywords": [
     "API",
-    "suhitk1",
+    "Rafase282",
     "IP",
     "Header"
   ],
-  "author": "Suhit kumar (suhitk1)",
+  "author": "Rafael (Rafase282) Rodriguez",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/suhitk1/rh-parsermicroservice/issues"
+    "url": "https://github.com/Rafase282/header-parser/issues"
   },
-  "homepage": "https://github.com/suhitk1/rh-parsermicroservice/blob/master/README.md",
+  "homepage": "https://github.com/Rafase282/header-parser#readme",
   "dependencies": {
     "express": "^4.13.3"
   }
