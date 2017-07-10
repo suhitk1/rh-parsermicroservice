@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/suhitk1/rh-parsermicroservice/issues"
   },
-  "homepage": "https://github.com/suhik1/rh-parsermicroservice#readme",
+  "homepage": "https://github.com/suhitk1/rh-parsermicroservice/blob/master/README.md",
   "dependencies": {
     "express": "^4.13.3"
   }
